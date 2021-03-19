@@ -1,7 +1,7 @@
-#*Otsikko*
+# *Otsikko*
 Tähän **painavaa** *tekstiä*.
-##Jokin lista:
-*eka
-*toka
-	*toka b
+## Jokin lista:
+* eka
+* toka
+	* toka b
 
