@@ -1,0 +1,101 @@
+commit 8994a59026429acb84b092d80a05ba9da949b3ea
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:55:50 2021 +0200
+
+    mmm
+
+ kolmas.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 42e7e9fa6f2cc5fecafc7f873e57ca9a41466f52
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:53:30 2021 +0200
+
+    mutoksia lisää
+
+ kolmas.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 6607bd2b0a3a7192949102794356726e9e850e52
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:48:01 2021 +0200
+
+    add -p
+
+ eka.txt    | 6 ++++--
+ kolmas.txt | 2 +-
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+
+commit a865341440ba1c04d505abb006cb7bfd411bd7db
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:45:33 2021 +0200
+
+    muutoksia
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ac2c3c66170acbf47fde58706b7e5ce8ec040f2b
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:44:40 2021 +0200
+
+    poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit b8dc3b12420dff199942b04236801f9bf982a042
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:41:33 2021 +0200
+
+    poistoja
+
+ tiedosto.txt | 3 ---
+ 1 file changed, 3 deletions(-)
+
+commit a725fd452ea57c236de3d422ad029c6869d06263
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:40:31 2021 +0200
+
+    lisää tekstiä
+
+ tiedosto.txt | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit 2f6930598ca84ae9f0f7263f739194671dd90672
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:38:25 2021 +0200
+
+    muutoksia
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 52bf761a5b5749a763b3004ce2e87037d35b6066
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:36:59 2021 +0200
+
+    kolmas teksti lisätty
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ace4db62dde84e11f454b3a1b3ab9b9b31aae491
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:34:48 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit c1d8e395bb756f14670d25e57a182a73394d8530
+Author: anunis <anu.nissinen@helsinki.fi>
+Date:   Fri Mar 19 17:32:49 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
