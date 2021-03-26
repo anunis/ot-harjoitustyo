@@ -2,7 +2,7 @@
 ## Sovelluksen tarkoitus
 Tarkoitus on tehdä sudoku-sovellus, jossa pelaaja voi ratkoa (ehkä erivaikeusasteisia) sudokuja.
 Sovellus pitää kirjaa käyttäjän ratkomista peleistä.
-## Käyttäjät
+## Käyttäjät 
 Ainakin aluksi sovelluksella on vain yksi käyttäjärooli eli *normaali käyttäjä*.
 ## Suunnitellut toiminnallisuudet
 ### Ennen kirjautumista käyttäjä voi
