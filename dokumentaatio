@@ -1,1 +1,19 @@
+# Vaatimusmäärittely
+## Sovelluksen tarkoitus
+Tarkoitus on tehdä sudoku-sovellus, jossa pelaaja voi ratkoa (ehkä erivaikeusasteisia) sudokuja.
+Sovellus pitää kirjaa käyttäjän ratkomista peleistä.
+## Käyttäjät
+Ainakin aluksi sovelluksella on vain yksi käyttäjärooli eli *normaali käyttäjä*.
+## Suunnitellut toiminnallisuudet
+### Ennen kirjautumista käyttäjä voi
+* luoda käyttäjätunnuksen, jonka täytyy olla uniikki ja väh. 3 merkin pituinen
+* kirjautua järjestelmään
+  * kirjautuminen onnistuu, jos käyttäjä syöttää olemassaolevan käyttäjätunnuksen
+  * jos käyttäjätunnusta ei löydy järjestelmästä, järjestelmä ilmoittaa siitä ja pyytää luomaan uuden käyttäjätunnuksen
+ ### Kirjautumisen jälkeen käyttäjä
+ * näkee ratkaisemiensa pelien määrän
+ * voi aloittaa uuden pelin 
+ * voi kirjautua ulos
+
+
 
